@@ -1,0 +1,17 @@
+body {background-color: lightblue;}
+h1 {text-align: center;}
+
+#first {color: red;}
+#second {color: blue;}
+#third {color: green;}
+#fourth {font-weight: bold; font-size: 40px;}
+#fifth {font-size: 11px;}
+#sixth {text-align: center;}
+#seventh {font-weight: bold;}
+#eighth {font-family: "courier new";} 
+#nineth {color: green; font-size: 22px; font-weight: bold;}
+.styledFont {color: green; font-family: "courier new"}
+#borderimg {
+    border: 10px solid transparent; 
+    padding: 15px; 
+    border-image: url(border.png) 30 round;}
